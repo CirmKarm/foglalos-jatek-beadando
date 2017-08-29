@@ -1,0 +1,27 @@
+body{
+	background-image: url(../pic/ocean.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+	
+	width:80%;
+	margin-top:12px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:auto;
+	
+	font-family:Times;
+}
+header{
+	background-color:#3d8eb6;
+	color:white;
+
+}
+
+nav{
+	background-color: #89c3df;
+}
+a{
+	color: #181616;
+	padding:12px;
+	text-decoration: none;
+}

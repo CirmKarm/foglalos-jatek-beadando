@@ -1,0 +1,18 @@
+body{background-color:#7F7F7F;}
+#divIGM {text-align:center; font: 11px Verdana,Arial, Helvetica, sans-serif;}
+#divIGM a:link, #divIGM a:visited {text-decoration:none;}
+#divIGM a:hover {color:red;text-decoration:underline;}
+#tblThumbsLayout {text-align:left; margin: 0 auto;}
+#tblGalleryName{margin-top:4px;}
+#currentGalleryLocation {font-weight:bold; font-size:12px;}
+td#galleryNameCell {font-size: 26px; font-weight:bold; color:#000080; margin: 6px 6px 0 0;}
+td#pagingCell {text-align:right; white-space:nowrap;}
+.currentPage {font-weight: bold;}
+.titlePages {font-size: 12px;font-weight: bold; color:#000080;}
+td#pagingCell a, .currentPage {font-size: 10px; padding: 3px 5px; border:1px solid #ccc;vertical-align:middle; }
+td#pagingCell a:hover, .currentPage {border: #666 1px solid; background-color:#fff; text-decoration:none;}
+#pnCell {text-align:right;}
+a.pn, a.pn:LINK,a.pn:VISITED {color: #606060; font: 9px arial, helvetica, sans-serif; text-decoration: none; padding: 1px 4px;}
+td.tdImg {width:160px; height:120px; border: 1px solid; border-color:#aaaaaa #666666 #666666 #aaaaaa; vertical-align: top; text-align:center;background-color:#7F7F7F}
+img.eImage {border:1px solid; border-color:#FFFFFF;}
+font.tdTitle { text-align:center; vertical-align:bottom; font:10px Verdana,Arial, Helvetica, sans-serif; font-weight:normal; color:#FFFFFF;}

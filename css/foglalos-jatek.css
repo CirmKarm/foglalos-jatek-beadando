@@ -1,0 +1,33 @@
+#foglalos-index form{
+    margin-top: 20px;
+}
+
+#foglalos-index .instruction-div {
+    margin-top: 20px;
+}
+
+#foglalos-index input:read-only { 
+    background-color: #dddddd;
+}
+
+#foglalos-jatek .board .row .tile input{
+    width: 25px;
+    height: 25px;
+    margin: 3px;
+}
+
+#foglalos-jatek .board .row .tile input{
+    background-color: white;
+}
+
+#foglalos-jatek .board .row .tile.disabled input{
+    background-color: #f2dede !important;
+}
+
+#foglalos-jatek .players-wrapper .players .current{
+    background-color: lightgreen; 
+}
+
+.error-msg{
+    background-color: #f2dede;
+}

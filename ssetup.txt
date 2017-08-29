@@ -1,0 +1,8 @@
+<?php return array (
+  'jatekvalaszt' => 'Foglalós',
+  'hatterszin' => 'DarkGray',
+  'idobeallitas' => '15perc',
+  'babu1' => 'Macska',
+  'babu2' => 'Majom',
+  'Inditas' => 'Játék indítása',
+);

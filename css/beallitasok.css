@@ -1,0 +1,57 @@
+#beallitasok-page #Container {
+	margin-right: auto;
+	margin-left: auto;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
+#beallitasok-page #Header {
+	height: 100px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	background-color: #E5E2EF;
+}
+
+#beallitasok-page #MainContent {
+	height: auto;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	background-color: #F1F1F1;
+}
+#beallitasok-page #Footer {
+	height: 100px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
